@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lalitcodekr
-- 👀 I’m interested in web development (MERN stack / Next.js), Swift development, and competitive programming.
+- 👀 I’m interested in web development (MERN stack / Next.js), Swift development, and problem-solving.
 - 🌱 I’m learning Swift and SwiftUI and exploring DevOps tools.
 - 💞️ I’m looking to collaborate on iOS apps, full-stack web projects, and open-source contributions.
 - 📫 How to reach me: 
