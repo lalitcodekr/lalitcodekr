@@ -2,14 +2,7 @@
 
 💻 Full-Stack Developer | iOS Enthusiast | Problem Solver
 
-I'm passionate about building scalable web applications and exploring modern technologies. I enjoy working across the stack — from designing responsive frontends to building efficient backend systems. I'm also exploring DevOps practices, focusing on deployment, automation, and improving development workflows. Recently, I’ve been diving into iOS development with Swift and SwiftUI.
-
----
-
-## 🚀 What I’m Working On
-- 🌱 Currently learning Swift, SwiftUI, and DevOps tools
-- 🔭 Building full-stack applications using the MERN stack and Next.js
-- 📚 Improving data structures, algorithms, and system design skills
+I'm passionate about building scalable web applications and exploring modern technologies. I enjoy working across the stack — from designing responsive frontends to building efficient backend systems. I'm also exploring DevOps practices focused on deployment, automation, and improving development workflows. Currently, I'm learning Swift, SwiftUI, and DevOps tools while building full-stack applications with the MERN stack and Next.js, and continuously improving my data structures, algorithms, and system design skills.
 
 ---
 
@@ -37,4 +30,4 @@ I'm passionate about building scalable web applications and exploring modern tec
 ---
 
 ## 🎨 Fun Fact
-When I’m not coding, you’ll probably find me *painting watercolor artwork or playing football ⚽
+When I’m not coding, you’ll probably find me painting watercolor artwork or playing football
