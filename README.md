@@ -30,4 +30,5 @@ I'm passionate about building scalable web applications and exploring modern tec
 ---
 
 ## 🎨 Fun Fact
-When I’m not coding, you’ll probably find me painting watercolor artwork or playing football
+When I’m not coding, you’ll probably find me painting watercolor artwork 🧑🏼‍🎨 or playing football ⚽️.
+
