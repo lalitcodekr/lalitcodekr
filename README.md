@@ -2,23 +2,19 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="left">👋 My name is Lalit, and I'm a B.Tech Computer Science student.</h2>
+<h3 align="left">👋 My name is Lalit, and I'm a B.Tech Computer Science student.</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+<h4 align="left">About me</h4>
 
 ###
-
-<br clear="both">
 
 <p align="left">✨ Building software since 2023  <br>📚 Currently learning Swift, SwiftUI, System Design, and DevOps  <br>🚀 Building full-stack applications with MERN and Next.js  <br>🎯 Goal: Contribute to impactful open-source projects and scalable systems  <br>🎨 Fun fact: I enjoy watercolor painting and playing football ⚽</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
@@ -94,19 +90,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitcodekr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitcodekr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/4bd1a0.mp4"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitcodekr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=MyGitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitcodekr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
 </div>
 
 ###
