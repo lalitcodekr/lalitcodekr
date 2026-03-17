@@ -2,7 +2,10 @@
 
 ###
 
-<h3 align="left">👋 My name is Lalit, and I'm a B.Tech Computer Science student.</h3>
+<h3 align="left">👋 🤔 What does it take to build scalable, real-world applications as a student?
+
+Hi 👋 I'm Lalit — a B.Tech Computer Science student
+building full-stack and iOS applications with a focus on performance and scalability.</h3>
 
 ###
 
@@ -10,7 +13,14 @@
 
 ###
 
-<p align="left">✨ Building software since 2023  <br>📚 Currently learning Swift, SwiftUI, System Design, and DevOps  <br>🚀 Building full-stack applications with MERN and Next.js  <br>🎯 Goal: Contribute to impactful open-source projects and scalable systems  <br>🎨 Fun fact: I enjoy watercolor painting and playing football ⚽</p>
+<p align="left">
+🛠️ Building scalable web and mobile applications since 2023 <br>
+🔥 Focus: Writing clean, maintainable code and building production-ready applications <br>
+📚 Currently exploring System Design, DevOps, and advanced iOS development (Swift & SwiftUI) <br>
+🚀 Developing full-stack applications using MERN and Next.js <br>
+🎯 Goal: Contribute to impactful open-source projects and scalable systems <br>
+🎨 Fun fact: I enjoy watercolor painting and playing football ⚽
+</p>
 
 ###
 
