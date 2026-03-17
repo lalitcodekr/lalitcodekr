@@ -2,8 +2,8 @@
 
 ###
 
-<h3 align="left">👋 🤔 What does it take to build scalable, real-world applications as a student?
-
+<h3 align="left">🤔 What does it take to build scalable, real-world applications as a student?
+<br>
 Hi 👋 I'm Lalit — a B.Tech Computer Science student
 building full-stack and iOS applications with a focus on performance and scalability.</h3>
 
