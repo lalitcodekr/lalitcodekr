@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What’s up?</h1>
 
-###
+___
 
 <h3 align="left">
 Building scalable, real-world applications as a Computer Science student.
@@ -11,7 +11,7 @@ focused on performance, scalability, and production-ready systems.
 
 <p align="left"><i>💡 Turning ideas into scalable, production-ready applications.</i></p>
 
----
+___
 
 <h3 align="left">About me</h3>
 
