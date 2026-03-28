@@ -1,6 +1,5 @@
-<h1 align="left">Hey there👋 What’s up?</h1>
+<h1 align="left">Hey👋 What’s up?</h1>
 
-___
 
 <h3 align="left">
 Building scalable, real-world applications as a Computer Science student.
