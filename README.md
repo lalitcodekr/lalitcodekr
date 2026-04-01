@@ -113,14 +113,6 @@ ___
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitcodekr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=MyGitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitcodekr&layout=compact&theme=dracula&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=lalitcodekr&theme=dracula&hide_border=false" height="150"/>
-</div>
-
----
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=gradient" />
 </div>
