@@ -1,118 +1,120 @@
-<h1 align="left">Hey👋 What’s up?</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A468C&height=160&section=header&text=Pyda%20Lalit%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20iOS%20%7C%20Backend%20%7C%20DevOps&descAlignY=58&descColor=cce0ff" />
+</div>
 
-
-<h3 align="left">
-Building scalable, real-world applications as a Computer Science student.
-<br><br>
-Hi 👋 I'm Lalit — a Full-Stack Developer working with MERN, Next.js, and iOS (Swift),
-focused on performance, scalability, and production-ready systems.
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A468C&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+VIT-AP+University;Full-Stack+Developer+(MERN+%2B+Next.js);iOS+Engineer+(Swift+%2B+SwiftUI);Backend+%7C+DevOps+%7C+System+Design" alt="Typing SVG" />
 </h3>
 
-<p align="left"><i>💡 Turning ideas into scalable, production-ready applications.</i></p>
-
-___
-
-<h3 align="left">About me</h3>
-
-###
-
-<p align="left">
-🛠️ Building scalable web and mobile applications since 2023 <br>
-🚀 Developing full-stack applications using MERN and Next.js <br>
-🔥 Focus: Writing clean, maintainable code and building production-ready applications <br>
-📚 Currently exploring System Design, DevOps, and advanced iOS development (Swift & SwiftUI) <br>
-🎯 Goal: Contribute to impactful open-source projects and scalable systems <br>
-🎨 Fun fact: I enjoy watercolor painting and playing football ⚽
+<p align="center">
+  <a href="https://linkedin.com/in/p-lalit-kr"><img src="https://img.shields.io/badge/LinkedIn-0A468C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/lalitcodekr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://lalitkr-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A468C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:lalit.kumar.pyda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<h3 align="left">🧰 Tech Stack</h3>
+## 👨‍💻 About Me
 
-###
+- 🎓 **B.Tech CSE** at VIT-AP University
+- 💼 **Web Development Intern** @ UpToSkills — built AI Resume Builder & led the **Pragati** platform (industry-college talent bridge)
+- 🚀 Shipping production-grade apps with **MERN, Next.js, Swift/SwiftUI**
+- 🧠 Currently diving deep into **System Design, DevOps, and advanced iOS development**
+- 🏆 **Top 10 / 1000+** at Engineering Clinics Expo — Smart Traffic Control using AI & IoT
+- 🎨 Fun: watercolor painting & football ⚽
 
-<div align="left">
+---
 
-  <b>Frontend</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
+## 🚀 Featured Projects
 
-  <br>
+### 🧠 [Career Cortex](https://careercortex.vercel.app) — AI Career Training Platform
+> **Next.js · TypeScript · PostgreSQL · Prisma ORM · Google Gemini API**
 
-  <b>Backend</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+- AI-powered platform covering resume generation, cover letters, interview quizzes, and career insights
+- Integrated **Google Gemini API**, **Clerk** auth, and **Inngest** for async background job processing
+- Live with **100+ users** — optimized DB schemas and improved query response times
 
-  <br>
+---
 
-  <b>DevOps & Tools</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+### ⚽ [GoalPulse](https://github.com/lalitcodekr/GoalPulse) — Live Football Scores iOS App
+> **Swift · SwiftUI · Node.js**
 
+- Full-stack iOS app with live scores, match stats, tactical lineups, player analytics, and in-app news feed
+- Engineered a **Node.js caching proxy** with TTL eviction — cut external API calls by **95%**, zero rate-limit errors
+- **MVVM architecture**, Swift Concurrency (`async/await`), custom pitch renderer — zero third-party UI libraries
+
+---
+
+### 🏫 Pragati — Industry-College Talent Bridge Platform
+> **PostgreSQL · Express.js · React (Vite) · Node.js**
+
+- Centralized platform connecting companies, colleges, mentors, and students for structured fresher recruitment
+- Built the full **Student Module** — profile management, training enrollment, assignment submissions, progress tracking, and interview pipeline
+- Multi-role system: Company · College · Student · Mentor · Admin
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**iOS**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat-square&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitcodekr&show_icons=true&theme=tokyonight&hide_border=true&title_color=0A468C&icon_color=0A468C&text_color=c9d1d9&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitcodekr&layout=compact&theme=tokyonight&hide_border=true&title_color=0A468C&text_color=c9d1d9&bg_color=0d1117" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lalitcodekr&theme=tokyonight&hide_border=true&ring=0A468C&fire=0A468C&currStreakLabel=0A468C&background=0d1117" />
 </div>
 
 ---
 
-<h3 align="left">🍎 iOS Development</h3>
+## 🏅 Certifications
 
-###
-
-<p align="left"><i>Building modern iOS applications using Swift & SwiftUI</i></p>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" />
-</div>
+- 🏆 **IBM** DevOps, Agile & Design Thinking Certification — 2025
+- ☁️ **Oracle** Cloud Infrastructure Certified Associate — 2025
 
 ---
 
-<h3 align="left">💻 Programming Languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-</div>
-
----
-
-<h3 align="left">🚀 Featured Projects</h3>
-
-###
-
-<p align="left">
-🔹 <b>Career Cortex</b> – AI-powered career training platform for 1000+ users  
-<a href="https://careercortex.vercel.app">🔗 Live</a> <br>
-🔹 <b>Travel Story</b> – Full-stack social media platform built with MERN featuring authentication, real-time features, and 500+ users <br>
-🔹 <b>iOS App (SwiftUI)</b> – High-performance mobile application with modern UI/UX and scalable architecture <br>
-</p>
-
----
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=gradient" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A468C&height=100&section=footer" />
 </div>
