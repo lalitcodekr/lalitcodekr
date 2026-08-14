@@ -13,6 +13,10 @@
   <a href="mailto:lalit.kumar.pyda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lalitcodekr&style=for-the-badge&color=0A468C&label=PROFILE+VIEWS" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -95,15 +99,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitcodekr&show_icons=true&theme=tokyonight&hide_border=true&title_color=0A468C&icon_color=0A468C&text_color=c9d1d9&bg_color=0d1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitcodekr&layout=compact&theme=tokyonight&hide_border=true&title_color=0A468C&text_color=c9d1d9&bg_color=0d1117" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=lalitcodekr&show_icons=true&theme=tokyonight&hide_border=true&title_color=0A468C&icon_color=0A468C&text_color=c9d1d9&bg_color=0d1117" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lalitcodekr&layout=compact&theme=tokyonight&hide_border=true&title_color=0A468C&text_color=c9d1d9&bg_color=0d1117" height="165" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=lalitcodekr&theme=tokyonight&hide_border=true&ring=0A468C&fire=0A468C&currStreakLabel=0A468C&background=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lalitcodekr&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
 </div>
 
 ---
