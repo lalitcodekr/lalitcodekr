@@ -1,11 +1,15 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A468C,100:00C6FF&height=200&section=header&text=Pyda%20Lalit%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20%7C%20iOS%20%7C%20Cloud%20and%20DevOps&descSize=20&descAlignY=60&descColor=e6f2ff" alt="Pyda Lalit Kumar" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0A468C,100:00C6FF&height=250&section=header&text=Pyda%20Lalit%20Kumar&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Building%20Scalable%20Software&descSize=18&descAlignY=58&descColor=67E8F9"
+    width="100%"
+    alt="Pyda Lalit Kumar — Futuristic Header"
+  />
 </div>
 
 <div align="center">
   <a href="https://github.com/lalitcodekr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C6FF&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%8E%93+CS+Undergrad+%40+VIT-AP+%7C+CGPA+9.20;%F0%9F%8C%90+Full-Stack+Developer+%E2%80%94+MERN+%2B+Next.js;%F0%9F%93%B1+iOS+Engineer+%E2%80%94+Swift+%2B+SwiftUI;%E2%98%81%EF%B8%8F+Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD;%F0%9F%9A%80+Building+things+people+actually+use" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C6FF&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%8E%93+CS+Undergrad+%40+VIT-AP;%F0%9F%8C%90+Full-Stack+Developer+%E2%80%94+MERN+%2B+Next.js;%F0%9F%93%B1+iOS+Engineer+%E2%80%94+Swift+%2B+SwiftUI;%E2%98%81%EF%B8%8F+Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD;%F0%9F%9A%80+Building+things+people+actually+use" alt="Typing animation" />
   </a>
 </div>
 
@@ -149,7 +153,15 @@ struct Lalit: Developer {
 
 **📱 iOS**
 
-<img src="https://skillicons.dev/icons?i=swift,xcode&perline=5" />
+<p>
+
+  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" height="48" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" height="48" />
+
+  <img src="https://cdn.simpleicons.org/swift/FA7343" alt="SwiftUI" height="48" />
+
+</p>
 
 **☁️ DevOps & Cloud**
 
