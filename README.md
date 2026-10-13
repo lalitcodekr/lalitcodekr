@@ -23,7 +23,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lalitcodekr&style=flat-square&color=0A468C&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/CGPA-9.20%20%2F%2010-0A468C?style=flat-square" />
 </p>
 
 ---
@@ -32,7 +31,7 @@
 
 ```swift
 struct Lalit: Developer {
-    let university  = "VIT-AP University — B.Tech CSE (2023–2027), CGPA 9.20"
+    let university  = "VIT-AP University — B.Tech CSE (2023–2027)"
     let focus       = ["Full-Stack Web", "iOS (SwiftUI)", "Cloud & DevOps"]
     let leadership  = "Led 12 of 50+ contributors as Project Captain"
     let achievement = "Top 10 / 1000+ — Engineering Clinics Expo 🏆"
